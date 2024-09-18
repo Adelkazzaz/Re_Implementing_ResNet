@@ -1,7 +1,3 @@
-Certainly! Here's a README file for your brain tumor detection project:
-
----
-
 # Brain Tumor Detection Using CNN
 
 ## Project Overview
