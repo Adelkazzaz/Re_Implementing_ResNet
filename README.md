@@ -85,7 +85,7 @@ pip install tensorflow keras numpy matplotlib scikit-learn
 
 ## Acknowledgments
 
-- The dataset is provided by [Kaggle](https://www.kaggle.com/datasets) and other sources.
+- The dataset is provided by [Kaggle](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset) and other sources.
 - TensorFlow and Keras for deep learning functionalities.
 - Matplotlib for data visualization.
 
